@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 <!-- <div class="row" style="text-align: center;"> -->
 <div class="row" style="margin-bottom: -50px;">
   <div class="card">

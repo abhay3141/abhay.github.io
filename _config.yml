@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Abhay"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              :
   location         : "Bengaluru, India"
-  employer         : "Accenture"
+  employer         :
   uri              : # URL
   email            : "abh217058@gmail.com" 
 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : 
   researchgate     : # URL
 
   # Repositories and software development

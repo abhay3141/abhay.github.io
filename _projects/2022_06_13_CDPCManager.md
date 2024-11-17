@@ -1,10 +1,10 @@
 ---
 title: "CDPC Manager"
-collection: research
+collection: project
 custom: 'true'
-custom_remark: "Course Project under the guidance of Dr. Murala"
-permalink: /projects/PlantDoc
-excerpt: "The presented algorithm revolves around feature-based sparse SLAM, called MonoSLAM, for recovering a camera's 3D trajectory. Key steps include feature extraction, distance-based feature matching, essential matrix estimation, pose estimation, world coordinate computation, and visualization. Code link [here](https://github.com/neeleshverma/Monocular-slam)"
+# custom_remark: "Course Project under the guidance of Dr. Murala"
+permalink: /projects/
+excerpt: "Designed and constructed a Django-based website for the college’s Career Development and Placement Cell (CDPC) competition. In this website, implemented features such as Institute ID-based authentication, multi-level user roles, and advanced filtering. View the code [here](https://github.com/abhay3141/CDPC_Manager)"
 date: 2022-06-13
 venue: 'NA'
 ---

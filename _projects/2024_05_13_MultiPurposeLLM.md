@@ -4,7 +4,7 @@ collection: research
 custom: 'true'
 # custom_remark: "Course Project under the guidance of Dr. Murala"
 # permalink: /projects/PlantDoc
-excerpt: "In this project, developed an intelligent application that routes user prompts to appropriate specialized LLMs. The implemented functionalities including sentiment analysis, translation, summarization and text generation. View the code [here](https://github.com/abhay3141/MultiPurposeLLM/tree/master)"
+excerpt: "In this project, developed an intelligent application that routes user prompts to appropriate specialized LLMs. The implemented functionalities are sentiment analysis, translation, summarization and text generation. View the code [here](https://github.com/abhay3141/MultiPurposeLLM/tree/master)"
 date: 2024-05-13
 venue: 'NA'
 ---

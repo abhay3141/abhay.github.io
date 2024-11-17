@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Abhay, and my research interest lies in multimodal learning and computer vision. I have experience working independently with text, image, and audio, and I’m passionate about exploring how combining these modalities can drive more powerful models. Currently learning Vision-Language Models and seeking opportunities to collaborate on exciting deep learning projects, with a particular focus on multimodal learning. Outside of this, I love to play cricket and badminton, which bring creativity and balance to my life.
+Hi! I’m Abhay, and my research interest lies in multimodal learning and computer vision. I have experience working independently with text, image, and audio, and I’m passionate about exploring how combining these modalities can drive more powerful models. Currently learning Vision-Language Models(VLMs) and seeking opportunities to collaborate on exciting deep learning projects, with a particular focus on multimodal learning. Outside of this, I love to play cricket and badminton, which bring creativity and balance to my life.
 
 Education
 ======

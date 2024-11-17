@@ -3,7 +3,7 @@ title: "CDPC Manager"
 collection: project
 custom: 'true'
 # custom_remark: "Course Project under the guidance of Dr. Murala"
-permalink: /projects/
+permalink: 
 excerpt: "Designed and constructed a Django-based website for the college’s Career Development and Placement Cell (CDPC) competition. In this website, implemented features such as Institute ID-based authentication, multi-level user roles, and advanced filtering. View the code [here](https://github.com/abhay3141/CDPC_Manager)"
 date: 2022-06-13
 venue: 'NA'

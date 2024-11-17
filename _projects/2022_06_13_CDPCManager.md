@@ -1,6 +1,6 @@
 ---
 title: "CDPC Manager"
-collection: project
+collection: research
 custom: 'true'
 # custom_remark: "Course Project under the guidance of Dr. Murala"
 permalink: 

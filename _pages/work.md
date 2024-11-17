@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 * <ins>**Accenture** - _Software Engineer, June 2024 - Present_</ins>  
-  I began my full-time role at [Accenture](https://www.accenture.com/in-en) as a Java Developer, where I focused on refactoring client Java code using the Spring framework. In this role, I have worked extensively with Java, Spring, TypeScript, and AWS.
-  
+  I am currently working at [Accenture](https://www.accenture.com/in-en) as a Java Developer. In this role, I have been refactoring client Java code using the Spring framework and have gained experience working with Java, Spring, TypeScript, and AWS.
+
 
 * <ins>**University of Tartu** - _Undergraduate Research Assistant, Jan 2023 - May 2024_</ins>  
   I collaborated with [Prof. Rajesh Sharma](https://scholar.google.com/citations?user=GKegbo0AAAAJ&hl=en) in the [CSS group](https://css.cs.ut.ee/) on research addressing instigating hate speech. I curated *ProvocationProbe*, a dataset of 20k tweets encompassing various controversies to analyze instigating hate speech. Further employed topic modeling to identify targeted groups in controversies and investigated distinguishing features between hate speech and instigating hate speech.

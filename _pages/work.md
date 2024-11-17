@@ -12,7 +12,7 @@ author_profile: true
 
 
 * <ins>**University of Tartu** - _Undergraduate Research Assistant, Jan 2023 - May 2024_</ins>  
-  I collaborated with [Prof. Rajesh Sharma](https://scholar.google.com/citations?user=GKegbo0AAAAJ&hl=en) in the [CSS group](https://css.cs.ut.ee/) on research addressing instigating hate speech. I curated *ProvocationProbe*, a dataset of 20k tweets encompassing various controversies to analyze instigating hate speech. Further employed topic modeling to identify targeted groups in controversies and investigated distinguishing features between hate speech and instigating hate speech.
+  I collaborated with [Prof. Rajesh Sharma](https://rajeshsharma.cs.ut.ee/) in the [CSS group](https://css.cs.ut.ee/) on research addressing instigating hate speech. I curated *ProvocationProbe*, a dataset of 20k tweets encompassing various controversies to analyze instigating hate speech. Further employed topic modeling to identify targeted groups in controversies and investigated distinguishing features between hate speech and instigating hate speech.
 
 
 * <ins>**Samsung Research** - _SDE Intern, Summer 2023_</ins>  

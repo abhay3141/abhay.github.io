@@ -1,14 +1,29 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "Recolorization of GrayScale Images using GANs"
+collection: research
+custom: 'true'
+custom_remark: "Course Project for the Course EE 673 (Machine Learning), Spring '23, IIT Ropar"
+# permalink: /projects/RecolorizationofGrayS
+excerpt: "In this project, I generated colored images from grayscale images using Generative Adversarial Networks (GANs). The U-Net architecture was used for the Generator, while the Discriminator was implemented as a convolutional-based classifier. View the code [here](https://github.com/kunal-vr0/Recolorization-of-gayscale-images)"
+date: 2023-04-13
+venue: 'NA'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<style>
+
+/* Style the counter cards */
+.card {
+<!--   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */ -->
+  padding: 16px;
+<!--   text-align: center; -->
+<!--   background-color: #f1f1f1; -->
+}
+
+a:link {
+  text-decoration: none;
+}
+</style>
+
+In this project, we implement an algorithm to recover the 3D trajectory of a camera through feature-based sparse SLAM (Simultaneous Localization and Mapping) using a single camera, also known as MonoSLAM. The keypoints are extracted using ORB. Subsequently, feature matching involves calculating the distances between all point pairs through a brute-force approach, followed by the estimation of 2 nearest neighbors using knn clustering and the elimination of points/pairs through a ratio test. Essential matrix estimation is then carried out using the 8-point algorithm, converting image coordinates to camera coordinates, and employing thresholding and RANSAC to eliminate outliers. The subsequent steps involve pose estimation, where the pose of the current frame is estimated using the essential matrix, and world coordinate computation, achieved by triangulation using two projection matrices as input.  
+
+Code [here](https://github.com/neeleshverma/Monocular-slam)

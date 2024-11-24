@@ -5,8 +5,8 @@ custom: 'true'
 custom_remark: "Under Review at ICASSP 2025"
 permalink: /research/AudioDeepfake
 excerpt: "This paper introduces the IndieFake Dataset (IFD), a comprehensive audio deepfake dataset featuring 27.12 hours of bonafide and deepfake audio from 50 Indian English speakers. Addressing the lack of South-Asian representation in existing datasets, IFD offers balanced data distribution and includes speaker-level characterization to enhance deepfake detection in diverse linguistic and cultural contexts."
-date: 2024-09-06
-venue: 'Under Review at ICASSP 2025'
+# date: 2024-09-06
+# venue: 'Under Review at ICASSP 2025'
 ---
 
 <style>

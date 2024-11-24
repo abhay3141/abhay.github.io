@@ -8,7 +8,7 @@ excerpt: "This research focused on examining the origins of hate speech and the 
 
 Download/View [here](https://arxiv.org/abs/2410.19687)"
 date: 2024-08-06
-venue: 'NA'
+venue: 'To be submitted to AAAI ICWSM 2025'
 ---
 
 <style>

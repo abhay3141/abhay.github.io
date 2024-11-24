@@ -2,13 +2,13 @@
 title: "Attentive A* for Visual Cue Based Path Planning in Complex Environments"
 collection: research
 custom: 'true'
-custom_remark: "Accepted at ECAI'24 Workshop on Agents and Robots for Reliable Engineered Autonomy"
+custom_remark: "Accepted at ECAI'24 Workshop on Agents and Robots for Reliable Engineered Autonomy (AREA)"
 permalink: /projects/attentiveastar
 excerpt: "This paper introduces Attentive A* incorporating attention mechanism into data-driven path-planning algorithms. This algorithm makes use of SCSE mechanism along with VGG-19 in the encoder part of the algorithm to generate a guidance map.
 
 Download/View [here](https://link.springer.com/chapter/10.1007/978-3-031-73180-8_9)"
 date: 2024-09-06
-venue: 'NA'
+venue: 'ECAI'24 Workshop on Agents and Robots for reliable Engineered Autonomy (AREA)'
 ---
 
 <style>

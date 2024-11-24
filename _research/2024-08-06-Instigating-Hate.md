@@ -3,12 +3,12 @@ title: "Instigating Hate"
 collection: research
 custom: 'true'
 custom_remark: "To be submitted to AAAI ICWSM 2025"
-permalink: /projects/InstigatingHate
+permalink: /research/InstigatingHate
 excerpt: "This research focused on examining the origins of hate speech and the underlying reasons behind it. Tweets related to various controversial events were analyzed, with each event's context carefully studied to ensure accurate interpretation. Each tweet was individually evaluated to determine whether it incited hate. Additionally, the study explored key differences between hate-instigating content and conventional hate speech.
 
 Download/View [here](https://arxiv.org/abs/2410.19687)"
 date: 2024-08-06
-venue: 'To be submitted to AAAI ICWSM 2025'
+venue: ''
 ---
 
 <style>

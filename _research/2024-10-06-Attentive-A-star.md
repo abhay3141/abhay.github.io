@@ -8,7 +8,7 @@ excerpt: "This paper introduces Attentive A* incorporating attention mechanism i
 
 Download/View [here](https://link.springer.com/chapter/10.1007/978-3-031-73180-8_9)"
 date: 2024-10-06
-venue: "ECAI'24 Workshop on Agents and Robots for reliable Engineered Autonomy (AREA)"
+venue: 
 ---
 
 <style>
